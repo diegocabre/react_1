@@ -1,0 +1,45 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.appcontenedor{
+  display: flex;
+}
+
+.card {
+  gap: 2rem;
+  border: 1px solid #000000;
+  border-radius: 6px;
+  margin: 1rem;
+  padding: 1rem;
+}
+
+.titulo {
+  font-size: 5rem;
+  color: #062e9b;
+}
+
+.imagen {
+  width: 280px;
+  height: 200px;
+  border-radius: 6px;
+}
+
+.boton {
+  background-color: #062e9b;
+  color: #ffffff;
+  padding: 1rem;
+  border-radius: 6px;
+  border: none;
+}
+
+.texto {
+  font-size: 1.5rem;
+  color: #062e9b;
+  text-align: center;
+  padding: 1rem;
+  margin: 1rem;
+}
