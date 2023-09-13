@@ -10,6 +10,8 @@
 }
 
 .card {
+  width: 300px;
+  height: auto;
   gap: 2rem;
   border: 1px solid #000000;
   border-radius: 6px;
@@ -23,7 +25,7 @@
 }
 
 .imagen {
-  width: 280px;
+  width: 240px;
   height: 200px;
   border-radius: 6px;
 }
